@@ -160,6 +160,7 @@ body {
     .main-wrapper {
         background-image: url(images/bg-mobile.png);
         background-repeat: no-repeat;
+        background-size: cover;
         display: flex;
         flex-direction: column;
         justify-content: center;
